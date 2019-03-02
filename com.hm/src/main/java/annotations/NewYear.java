@@ -3,7 +3,7 @@ package annotations;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
-// @Component ("NewYear")
+//@Component ("NewYear")
 public class NewYear implements Holiday {
 
 	public NewYear() {};

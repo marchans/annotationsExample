@@ -10,7 +10,7 @@
 <bean id = "alias" class = "autowiring.Alias" autowire-candidate = "false" ></bean>
 <bean id = "superfarm" class = "autowiring.SuperFarm"></bean>
 <bean id = "mobilephone" class = "autowiring.MobilePhone"></bean>
-
+<bean id = "pony" class = "autowiring.Pony"></bean>
 
 
 </beans>
